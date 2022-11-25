@@ -11,7 +11,6 @@ Trilha de Lógica de Programação do DEVstart
 </p>
 
 
-<br>
 
 
 ## 🚀 Tecnologias
@@ -22,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript;
 - Git e Github
 
-<br> 
+
 
 ## 💻 Projeto
 
-O projeta cria uma aplicação capaz de receber o nome e as notas de um atleta, calcular a média e apresentar ao usuário.
+O projeto cria uma aplicação capaz de receber o nome e as notas de um atleta, calcular a média e apresentar ao usuário.
 
 <br>
 
